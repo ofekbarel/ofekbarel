@@ -9,10 +9,10 @@ implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure 
 - 👋 Hi, I’m @ofekbarel
   
 - 👀 I’m interested in Devops
-- 
+  
 - 🌱 I’m currently working on expanding my portfolio with real-world projects.
 
-- 📫 How to reach me: in/ofek-barel-a3a4692b9 / ofekbarel10@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/ofek-barel-a3a4692b9 / ofekbarel10@gmail.com
 
 
 

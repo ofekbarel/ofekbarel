@@ -14,13 +14,14 @@ implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure 
 
 - 📫 How to reach me: www.linkedin.com/in/ofek-barel-a3a4692b9 / ofekbarel10@gmail.com
 
-##skills## 💼
-• Containerization: Docker, Kubernetes
-• Cloud Platforms: AWS, Azure 
-• Infrastructure as Code (IaC): Terraform, argoCD
-• Version Control: Git
-• CI/CD: Jenkins, Gitlab CICD, Azure DevOps Pipelines, Github Action
-• Other: Linux, Python, Networking, Ansible
+## skills ## 💼
+
+- Containerization: Docker, Kubernetes
+- Cloud Platforms: AWS, Azure 
+- Infrastructure as Code (IaC): Terraform, argoCD
+- Version Control: Git
+- CI/CD: Jenkins, Gitlab CICD, Azure DevOps Pipelines, Github Action
+- Other: Linux, Python, Networking, Ansible
 
 
 

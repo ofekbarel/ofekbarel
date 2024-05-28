@@ -1,7 +1,7 @@
 # Welcome to Ofek Barel's Hub 👨‍💻
 ## junior Devops Engineer
 
-*About Me*
+***###About Me###***
 Passionate and results-driven DevOps Engineer with a strong background in clouds and security.
 implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure DevOps, Terraform, and Jenkins, I am seeking opportunities to contribute my skills to innovative projects and organizations ! 
 

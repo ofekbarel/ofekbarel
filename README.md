@@ -6,7 +6,7 @@ Passionate and results-driven DevOps Engineer with a strong background in clouds
 implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure DevOps, Terraform, and Jenkins, I am seeking opportunities to contribute my skills to innovative projects and organizations ! 
 
 
-- 👋 Hi, I’m @ofekbarel
+- 👋 Hi, I’m ofek barel
   
 - 👀 I’m interested in Devops
   

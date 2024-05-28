@@ -14,7 +14,7 @@ implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure 
 
 - 📫 How to reach me: www.linkedin.com/in/ofek-barel-a3a4692b9 / ofekbarel10@gmail.com
 
-## skills ## 💼
+## skills 💼
 
 - Containerization: Docker, Kubernetes
 - Cloud Platforms: AWS, Azure 

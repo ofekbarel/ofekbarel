@@ -16,9 +16,9 @@ implementing CI/CD pipelines. Leveraging expertise in Docker, Kubernetes, Azure 
 
 ## skills 💼
 
-- Containerization: Docker, Kubernetes
+- Containerization: Docker, Kubernetes, argoCD
 - Cloud Platforms: AWS, Azure 
-- Infrastructure as Code (IaC): Terraform, argoCD
+- Infrastructure as Code (IaC): Terraform, Bicep
 - Version Control: Git
 - CI/CD: Jenkins, Gitlab CICD, Azure DevOps Pipelines, Github Action
 - Other: Linux, Python, Networking, Ansible
